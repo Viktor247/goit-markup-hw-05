@@ -210,7 +210,7 @@ img {
       rgba(47, 48, 58, 0.8),
       rgba(47, 48, 58, 0.8)
     ),
-    url('../img/Header.jpg');
+    url('../img/header.jpg');
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -409,8 +409,7 @@ img {
 }
 
 .icon-social {
-  width: 20px;
-  height: 20px;
+  display: flex;
 }
 
 .icon-fone {
@@ -691,7 +690,6 @@ img {
 }
 
 .card .examples-text {
-  
   position: absolute;
   /*top: 0;*/
   bottom: 0;
